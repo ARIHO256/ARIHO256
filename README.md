@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/achiever_256" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/achiever_256?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 ---
 
 ### 🔭 I’m currently working on
