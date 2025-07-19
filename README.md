@@ -167,5 +167,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=react-dark&area=true&hide_border=true" alt="ariho256's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=tokyo-night&area=true&hide_border=true&color=37BCF6&line=61dafb&point=ffffff&bg_color=1a1b27" alt="ariho256's Contribution Graph" />
 </p>
