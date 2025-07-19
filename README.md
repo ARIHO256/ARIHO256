@@ -163,7 +163,8 @@
 ### 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/ariho256.png?size=460" alt="ariho256's GitHub Avatar" style="border-radius: 50%;" />
+  <img src="https://github.com/ariho256.png" alt="ariho256's GitHub Avatar" width="100" height="100" style="border-radius: 50%; box-shadow: 0 0 8px rgba(97, 218, 251, 0.6);" />
+
 </p>
 
 <p align="center">
