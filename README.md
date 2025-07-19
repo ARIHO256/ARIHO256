@@ -146,15 +146,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="ariho256's GitHub Stats" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="ariho256's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=radical&hide_border=false" alt="ariho256's Top Languages" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=radical&hide_border=false" alt="ariho256's Top Languages" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=radical&hide_border=false" alt="ariho256's GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=radical&hide_border=false" alt="ariho256's GitHub Streak" />
 </p>
 
 
