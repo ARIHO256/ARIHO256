@@ -167,5 +167,5 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ariho256&theme=react-dark&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=react-dark&area=true&hide_border=true" alt="ariho256's Contribution Graph" />
 </p>
