@@ -163,10 +163,5 @@
 ### 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/ariho256.png" alt="ariho256's GitHub Avatar" width="100" height="100" style="border-radius: 50%; box-shadow: 0 0 8px rgba(97, 218, 251, 0.6);" />
-
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=tokyo-night&area=true&hide_border=true&color=37BCF6&line=61dafb&point=ffffff&bg_color=1a1b27" alt="ariho256's Contribution Graph" />
 </p>
