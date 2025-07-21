@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARIHO NOWAMAANI</h1>
 <h3 align="center">A passionate Fullstack developer from Uganda</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ariho256&label=Profile%20views&color=0e75b6&style=flat" alt="ariho256" />
 </p>
@@ -10,9 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ariho256&theme=onedark" alt="ariho256" />
   </a>
 </p>
-
----
-
 ### 🔭 I’m currently working on
 [MySchoolVictory](https://github.com/ARIHO256/myschoolvictory)
 
@@ -27,9 +23,6 @@
 
 ### 📫 How to reach me
 **nowamaaniariho@gmail.com**
-
----
-
 ### Connect with me:
 <p align="center">
   <a href="https://twitter.com/achiever_256" target="_blank">
@@ -48,9 +41,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
   </a>
 </p>
-
----
-
 ### Languages and Tools:
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -150,9 +140,6 @@
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=radical&hide_border=false" alt="ariho256's GitHub Streak" />
 </p>
-
-
----
 
 ### 📅 GitHub Contribution Calendar
 
