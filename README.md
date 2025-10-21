@@ -2,26 +2,27 @@
 <h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARIHO256&label=Profile%20views&color=0e75b6&style=flat" alt="ARIHO256" />
+  <img src="https://komarev.com/ghpvc/?username=ARIHO256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
 🎓 Passionate **Software Engineering Student** from **Kampala, Uganda**  
-💡 Love solving problems with clean, efficient code  
-📧 Reach me at: **nowamaaniariho@gmail.com**  
+💡 Love solving problems with clean, efficient, and scalable code  
+📧 Reach me at: **nowamaaniariho@gmail.com**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARIHO256&show_icons=true&theme=tokyonight" alt="Ariho's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARIHO256&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ARIHO256&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ARIHO256&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -78,5 +79,3 @@ An academic management system built using Django and React for efficient school 
 <p align="center">
   <b>“Keep learning, keep building, keep growing.”</b>
 </p>
-
----
