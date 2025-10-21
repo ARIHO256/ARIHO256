@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Ariho Nowamaani</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+Developer;Django+%26+React+Specialist;Lifelong+Learner+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=350&lines=Software+Engineer+%7C+Full+Stack+Developer;Django+%26+React+Specialist;Lifelong+Learner+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 ---
