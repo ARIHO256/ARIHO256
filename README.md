@@ -52,6 +52,19 @@
     alt="Top Languages"
   />
 </p>
+---
+
+### 🕸️ Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ARIHO256&theme=tokyo-night&bg_color=000000&hide_border=true&line=70A5FD&point=FFFFFF&area=true"
+    alt="Ariho Nowamaani's GitHub Contribution Graph"
+  />
+</p>
+
+---
+
 
 ---
 
