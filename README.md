@@ -1,21 +1,35 @@
-<h1 align="center">Ariho Nowamaani</h1>
-<h3 align="center">Software Engineering Student</h3>
+<!--
+✨ Crafted with care by ChatGPT for Ariho Nowamaani ✨
+-->
+
+<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Ariho Nowamaani</span> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARIHO256&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;Django+%26+React+Specialist;Lifelong+Learner+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-🎓 Passionate **Software Engineering Student** from **Kampala, Uganda**  
-💡 Love solving problems with clean, efficient, and scalable code  
-📧 Reach me at: **nowamaaniariho@gmail.com**
+- 🎓 **Software Engineering Student** from **Kampala, Uganda**  
+- 💡 Passionate about **building real-world software** that solves real problems  
+- 🧠 Currently exploring **AI integrations** with web platforms  
+- ⚙️ Focused on **Django**, **React**, and **Node.js**  
+- 📧 Reach me anytime: **nowamaaniariho@gmail.com**  
+- 🌱 Motto: *“Keep learning, keep building, keep growing.”*  
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mysql,html,css,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARIHO256&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -31,51 +45,44 @@
 
 ---
 
-### 🏆 Achievements Showcase
+### 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARIHO256&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ARIHO256&theme=tokyonight&margin-w=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 🚀 Projects
+### 💼 Featured Project
 
 #### 🎓 [MySchoolVictory](https://github.com/ARIHO256/myschoolvictory)
-An academic management system built using Django and React for efficient school data handling and student performance tracking.
+> An academic management platform built using Django and React — designed to simplify student data management, grading, and analytics for modern institutions.
 
 ---
 
-### 📈 Progress Dashboard
+### 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ARIHO256&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Graph" />
+  <a href="mailto:nowamaaniariho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ARIHO256"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Contact
+### 🧠 Fun Fact
+> “Great software isn’t written once — it’s rewritten until it feels inevitable.”
+
+---
 
 <p align="center">
-  📍 **Kampala, Uganda**  
-  📧 **nowamaaniariho@gmail.com**
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
 
 <p align="center">
-  <b>“Keep learning, keep building, keep growing.”</b>
+  <i>⭐ If you like my profile, consider giving my repositories a star — it motivates me to build more cool stuff!</i>
 </p>
+
+---
