@@ -1,10 +1,7 @@
-<!-- 
-  Profile README for @ARIHO256
-  Theme: clean, centered, and dark-mode friendly
--->
+<!-- Profile README for @ARIHO256 -->
 
-<h1 align="center">Hi 👋, I'm <span title="Pronounced: A-ri-ho">ARIHO NOWAMAANI</span></h1>
-<h3 align="center">Full‑Stack Developer • Uganda 🇺🇬 • Python & Java</h3>
+<h1 align="center">Hi 👋, I'm ARIHO NOWAMAANI</h1>
+<h3 align="center">Full-Stack Developer • Uganda 🇺🇬 • Python | Java</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ariho256">
@@ -14,69 +11,74 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ariho256">
-    <img src="https://github-profile-trophy.vercel.app/?username=ariho256&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies for ariho256" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ariho256&theme=onedark&no-frame=true&margin-w=8" alt="Trophies" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🔭 I’m currently working on
+- **[MySchoolVictory](https://github.com/ARIHO256/myschoolvictory)**
 
-- 🔭 I’m currently working on **[MySchoolVictory](https://github.com/ARIHO256/myschoolvictory)**  
-- 🌱 I’m learning **Django** & **Spring Boot**  
-- 💬 Ask me about **Python** and **Java**  
-- 👨‍💻 All my projects live here → **[github.com/ARIHO256](https://github.com/ARIHO256)**  
-- 📫 Reach me at: **nowamaaniariho@gmail.com**
+### 🌱 I’m currently learning
+- **Django** & **Spring Boot**
 
----
+### 👨‍💻 All of my projects
+- **https://github.com/ARIHO256**
 
-### 🚀 Featured Project
+### 💬 Ask me about
+- **Python**, **Java**
 
-<p>
-  <a href="https://github.com/ARIHO256/myschoolvictory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARIHO256&repo=myschoolvictory&theme=tokyonight" alt="Pinned: MySchoolVictory" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/ARIHO256/myschoolvictory">
-    <img src="https://img.shields.io/github/stars/ARIHO256/myschoolvictory?style=flat&color=yellow" alt="Stars" />
-  </a>
-  <a href="https://github.com/ARIHO256/myschoolvictory/forks">
-    <img src="https://img.shields.io/github/forks/ARIHO256/myschoolvictory?style=flat&color=orange" alt="Forks" />
-  </a>
-  <a href="https://github.com/ARIHO256/myschoolvictory/issues">
-    <img src="https://img.shields.io/github/issues/ARIHO256/myschoolvictory?style=flat&color=brightgreen" alt="Issues" />
-  </a>
-</p>
+### 📫 How to reach me
+- **nowamaaniariho@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" title="Blender" alt="Blender" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <!-- Total stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="ariho256 GitHub Stats" />
+
+  <!-- Current & longest streak -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=ariho256&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="ariho256 Current Streak" />
+</p>
+
+<p align="center">
+  <!-- Most used languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!-- Activity / contribution graph -->
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/achiever_256" target="_blank">
@@ -101,31 +103,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="ariho256's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=tokyonight&hide_border=false" alt="ariho256's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ariho256&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 <details>
   <summary><b>🎯 What I Like Building</b></summary>
   <br/>
   • Clean REST APIs with Django / Spring Boot  
-  • Frontends with React that feel fast and simple  
-  • Practical, data‑driven features (auth, dashboards, analytics)  
-  • CI/CD pipelines with Docker and good testing  
+  • React frontends that feel fast and simple  
+  • Practical features (auth, dashboards, analytics)  
+  • CI/CD with Docker and solid tests  
 </details>
 
 <details>
   <summary><b>🧩 Fun Fact</b></summary>
   <br/>
-  I enjoy turning rough ideas into small working prototypes quickly — then polishing them until they ship.
+  I like turning rough ideas into tiny working prototypes — then polishing them until they ship.
 </details>
