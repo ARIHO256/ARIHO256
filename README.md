@@ -1,110 +1,108 @@
-name: Profile Metrics
+<!--
+✨ Crafted for ARIHO256 – zero-flake, self-rendered stats via lowlighter/metrics.
+Everything under /metrics/*.svg is generated nightly by .github/workflows/metrics.yml
+-->
 
-on:
-  workflow_dispatch:
-  push:
-    branches: [ main, master ]
-  schedule:
-    - cron: "17 2 * * *"  # daily at 02:17 UTC
+<!-- HEADER -->
+<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Ariho Nowamaani</span> 👋</h1>
 
-permissions:
-  contents: write
+<p align="center">
+  <img
+    src="./metrics/typing.svg"
+    alt="Typing Animation"
+  />
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+<p align="center">
+  <a href="https://github.com/ARIHO256?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/ARIHO256?label=Followers&style=for-the-badge">
+  </a>
+  <a href="https://github.com/ARIHO256">
+    <img alt="Stars" src="https://img.shields.io/github/stars/ARIHO256?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge">
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ARIHO256&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-      # ---- Overall metrics (contribs, PRs, issues, stars, followers, repos) ----
-      - name: Overall metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ARIHO256
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Kampala
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_repositories: yes
-          filename: metrics/overall.svg
+---
 
-      # ---- Languages (compact) ----
-      - name: Languages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ARIHO256
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          filename: metrics/languages.svg
+### 🧑‍💻 About Me
 
-      # ---- Achievements / trophies ----
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ARIHO256
-          template: classic
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
-          filename: metrics/achievements.svg
+- 🎓 Software Engineering Student (Kampala, Uganda)  
+- 💡 Passionate about building real-world software  
+- 🧠 Exploring AI integrations with modern web platforms  
+- ⚙️ Django • React • Node.js  
+- 📧 nowamaaniariho@gmail.com  
+- 🌱 *“Keep learning, keep building, keep growing.”*
 
-      # ---- Coding habits (streak-like info and commit times) ----
-      - name: Habits
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ARIHO256
-          template: classic
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          filename: metrics/habits.svg
+---
 
-      # ---- Isocalendar heatmap (contribution graph-like) ----
-      - name: Isocalendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ARIHO256
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          filename: metrics/isocalendar.svg
+### 🚀 Tech Stack
 
-      # ---- Typing banner (static, locally rendered) ----
-      - name: Typing banner (SVG)
-        run: |
-          mkdir -p metrics
-          cat > metrics/typing.svg <<'SVG'
-          <svg xmlns="http://www.w3.org/2000/svg" width="600" height="40">
-            <rect width="100%" height="100%" fill="#0d1117"/>
-            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-                  font-family="Fira Code, monospace" font-size="16" fill="#70A5FD">
-              Software Engineer | Full Stack Developer · Django & React · Lifelong Learner
-            </text>
-          </svg>
-          SVG
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,mysql,html,css,git,github,linux,vscode" alt="Tech stack icons" />
+</p>
 
-      - name: Commit generated assets
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metrics/*.svg || true
-          if ! git diff --cached --quiet; then
-            git commit -m "chore(metrics): update profile svgs"
-            git push
-          fi
+---
+
+### 📈 GitHub Snapshot (self-rendered, zero-flake)
+
+<div align="center">
+
+<!-- Overall metrics (contribs, issues, PRs, stars, followers, etc.) -->
+<img src="./metrics/overall.svg" alt="Overall Metrics" />
+
+<br/><br/>
+
+<!-- Languages -->
+<img src="./metrics/languages.svg" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Streak & activity-like summary -->
+<img src="./metrics/habits.svg" alt="Coding Habits" />
+
+<br/><br/>
+
+<!-- Achievements / trophies -->
+<img src="./metrics/achievements.svg" alt="Achievements" />
+
+</div>
+
+---
+
+### 🕸️ Contribution Graph
+<p align="center">
+  <img src="./metrics/isocalendar.svg" alt="Isocalendar Heatmap" />
+</p>
+
+---
+
+### 💼 Featured Project
+
+#### 🎓 <a href="https://github.com/ARIHO256/myschoolvictory">MySchoolVictory</a>
+An academic management platform built with **Django** + **React** for streamlined student data, grading, and analytics.
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:nowamaaniariho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ARIHO256">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🧠 Fun Note
+> “Great software isn’t written once — it’s rewritten until it feels inevitable.”
+
+<p align="center">
+  <i>⭐ If you like my profile, please star my repositories — it motivates me to build more cool stuff!</i>
+</p>
