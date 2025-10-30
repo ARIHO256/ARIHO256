@@ -79,7 +79,7 @@ Everything under /metrics/*.svg is generated nightly by .github/workflows/metric
 
 ### 💼 Featured Project
 
-#### 🎓 <a href="https://github.com/ARIHO256/myschoolvictory">MySchoolVictory</a>
+#### 🎓 [MySchoolVictory](https://github.com/ARIHO256/myschoolvictory)
 An academic management platform built with **Django** + **React** for streamlined student data, grading, and analytics.
 
 ---
