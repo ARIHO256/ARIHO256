@@ -53,14 +53,13 @@
 
 ### 📊 GitHub Stats & Streaks
 
-<!-- Use a reliable mirror + count_private + include_all_commits -->
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800"
-    alt="Ariho's GitHub stats"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200"
+    alt="Ariho's GitHub Stats"
     height="160"
   />
-  <img
+  <img 
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
     height="160"
@@ -68,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://streak-stats.demolab.com?user=ariho256&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     height="160"
