@@ -33,7 +33,7 @@
   <a href="https://kaggle.com/achiever" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/>
   </a>
-  <a href="https://fb.com/ariho nowaman" target="_blank">
+  <a href="https://fb.com/ariho%20nowaman" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/nowaman" target="_blank">
@@ -53,13 +53,26 @@
 
 ### 📊 GitHub Stats & Streaks
 
+<!-- Use a reliable mirror + count_private + include_all_commits -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight" alt="Ariho's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=1800"
+    alt="Ariho's GitHub stats"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=tokyonight" alt="GitHub Streak Stats" height="160"/>
+  <img
+    src="https://streak-stats.demolab.com?user=ariho256&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="160"
+  />
 </p>
 
 ---
