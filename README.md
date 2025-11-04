@@ -50,24 +50,46 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200"
-    alt="Ariho's GitHub Stats"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="160"
-  />
+  <!-- GitHub Stats (auto-theme) -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=default&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
+      alt="Ariho's GitHub Stats"
+      height="160"
+    />
+  </picture>
+
+  <!-- Top Languages (auto-theme) -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=default&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Top Languages"
+      height="160"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com?user=ariho256&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     height="160"
