@@ -53,10 +53,10 @@
 
 ---
 
-### 📊 GitHub Stats (private included)
+### 📊 GitHub Stats (all activity)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=All%20Commits%20%28Public%20%2B%20Private%29"
+    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=All%20Activity%20Totals%20%26%20Score"
     alt="Ariho's GitHub Stats"
     height="170"
   />
@@ -76,8 +76,8 @@
 </p>
 
 <details>
-  <summary>Ensuring private commits are counted</summary>
-  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). Also enable “Include private contributions on my profile” in GitHub settings. Without these, GitHub only returns public totals.</p>
+  <summary>Show everything (all repos, all commits)</summary>
+  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). In GitHub profile settings, enable “Include private contributions on my profile.” This makes the card include all activity and unlock the letter grade (A/B/C) via <code>rank_icon=github</code>.</p>
 </details>
 
 ---
