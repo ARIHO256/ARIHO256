@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats (all activity)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=All%20Activity%20Totals%20%26%20Score"
+    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&hide_rank=false&custom_title=All%20Activity%20Totals%20%26%20Score&v=2"
     alt="Ariho's GitHub Stats"
     height="170"
   />
@@ -77,7 +77,7 @@
 
 <details>
   <summary>Show everything (all repos, all commits)</summary>
-  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). In GitHub profile settings, enable “Include private contributions on my profile.” This makes the card include all activity and unlock the letter grade (A/B/C) via <code>rank_icon=github</code>.</p>
+  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). In GitHub profile settings, enable “Include private contributions on my profile.” This forces the card to include all activity and show the GitHub-style letter grade (A/B/C) via <code>rank_icon=github</code>. Add <code>&v=2</code> or bump the version to refresh cached images.</p>
 </details>
 
 ---
