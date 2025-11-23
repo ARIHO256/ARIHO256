@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats (private included)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Overall%20GitHub%20Stats"
+    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=All%20Commits%20%28Public%20%2B%20Private%29"
     alt="Ariho's GitHub Stats"
     height="170"
   />
@@ -75,7 +75,10 @@
   />
 </p>
 
-<p align="center"><sub>Private contributions count toward totals via <code>count_private=true</code>. Be sure your stats deployment uses a token with repo access.</sub></p>
+<details>
+  <summary>Ensuring private commits are counted</summary>
+  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). Also enable “Include private contributions on my profile” in GitHub settings. Without these, GitHub only returns public totals.</p>
+</details>
 
 ---
 
