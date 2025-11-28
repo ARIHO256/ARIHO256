@@ -75,12 +75,6 @@
   />
 </p>
 
-<details>
-  <summary>Show everything (all repos, all commits)</summary>
-  <p>Deploy your own <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> with a fine-grained token (scopes: <code>repo</code>, <code>read:user</code>) set as <code>PAT_1</code> (or <code>GITHUB_TOKEN</code> on Vercel). Replace the base URL with your deployment (e.g., <code>https://gh-stats-ariho256.vercel.app/api...</code>). In GitHub profile settings, enable “Include private contributions on my profile.” This forces the card to include all activity and show the GitHub-style letter grade (A/B/C) via <code>rank_icon=github</code>. Add <code>&v=2</code> or bump the version to refresh cached images.</p>
-</details>
-
----
 
 ### 🌐 Connect with me
 <p align="center">
