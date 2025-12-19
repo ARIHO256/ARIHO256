@@ -54,15 +54,15 @@
 
 ---
 
-### 📊 GitHub Stats (all activity)
+### 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&hide_rank=false&custom_title=All%20Activity%20Totals%20%26%20Score&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&hide_border=true&theme=tokyonight"
     alt="Ariho's GitHub Stats"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ariho256&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350"
     alt="Top Languages"
     height="170"
   />
