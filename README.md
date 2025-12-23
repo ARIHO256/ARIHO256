@@ -73,7 +73,12 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ariho256&theme=blue-navy&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ariho256&theme=blue-navy&hide_border=true" />
+  </a>
+</p>
+
 
 
 ---
