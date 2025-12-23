@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 What I'm up to
-- 🔭 Building **Evzone Seller System** — a smooth seller onboarding flow
+- 🔭 Building **Evzone Seller System** a smooth seller onboarding flow
 - 🌱 Leveling up in **React** and **React Native**
 - 👨‍💻 Explore everything I'm hacking on: [github.com/ARIHO256](https://github.com/ARIHO256)
 - 💬 Happy to chat about **Django, Python, and Java**
