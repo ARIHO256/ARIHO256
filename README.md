@@ -1,5 +1,3 @@
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=ARIHO256)](https://git.io/streak-stats)
-
 # 👋 Hi, I'm Ariho Nowamaani  
 ### 🚀 Frontend developer crafting thoughtful, fast experiences from Uganda
 
