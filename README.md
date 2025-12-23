@@ -1,15 +1,17 @@
-# 👋 Hi, I'm Ariho Nowamaani
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ARIHO256)](https://git.io/streak-stats)
+
+# 👋 Hi, I'm Ariho Nowamaani  
 ### 🚀 Frontend developer crafting thoughtful, fast experiences from Uganda
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ariho256&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20&%20Mobile-0e75b6?style=flat" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Mobile-0e75b6?style=flat" alt="Focus badge" />
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20Django%20%7C%20Python-0e75b6?style=flat" alt="Stack badge" />
 </p>
 
 ---
 
-### 🧠 What I'm up to
+## 🧠 What I'm up to
 - 🔭 Building **Evzone Seller System** — a smooth seller onboarding flow
 - 🌱 Leveling up in **React** and **React Native**
 - 👨‍💻 Explore everything I'm hacking on: [github.com/ARIHO256](https://github.com/ARIHO256)
@@ -19,7 +21,7 @@
 
 ---
 
-### 🧰 Languages & Tools
+## 🧰 Languages & Tools
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
@@ -44,7 +46,7 @@
 
 ---
 
-### 🏆 Highlights
+## 🏆 Highlights
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=ariho256&theme=algolia&no-frame=true&margin-w=10&cache_seconds=86400"
@@ -54,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&hide_border=true&theme=tokyonight"
@@ -70,29 +72,31 @@
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ariho256&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="170"
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=ARIHO256&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      height="170"
+    />
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 <p align="center">
   <a href="https://twitter.com/nowamanariho" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/achiever" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
   <a href="https://fb.com/ariho%20nowaman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/nowaman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
