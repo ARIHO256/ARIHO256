@@ -73,15 +73,8 @@
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=ARIHO256&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-      height="170"
-    />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ariho256&theme=blue-navy&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+
 
 ---
 
