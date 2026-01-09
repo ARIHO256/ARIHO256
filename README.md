@@ -48,12 +48,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ariho256&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+    src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=ariho256&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
     height="170"
     alt="Ariho's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350&cache_seconds=1800"
+    src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs?username=ariho256&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=350&cache_seconds=1800"
     height="170"
     alt="Top Languages"
   />
