@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Stack-React%20%7C%20Django%20%7C%20Python-0e75b6?style=flat" alt="Stack badge" />
 </p>
 
----
-
 ## 🧠 What I'm up to
 - 🔭 Building **Evzone Seller System** a smooth seller onboarding flow
 - 🌱 Leveling up in **React** and **React Native**
@@ -16,8 +14,6 @@
 - 💬 Happy to chat about **Django, Python, and Java**
 - 📫 Reach me anytime: **arihonowaman05@gmail.com**
 - 📄 More about me: [a-bout-me.vercel.app](https://a-bout-me.vercel.app/)
-
----
 
 ## 🧰 Languages & Tools
 <p align="center">
@@ -42,8 +38,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
----
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,4 +62,20 @@
     alt="GitHub Streak"
   />
 </p>
-🌐 Connect with me <p align="center"> <a href="https://twitter.com/nowamanariho" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a> <a href="https://kaggle.com/achiever" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /> </a> <a href="https://fb.com/ariho%20nowaman" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a> <a href="https://instagram.com/nowaman" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> </p>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://twitter.com/nowamanariho" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/achiever" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ariho%20nowaman" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/nowaman" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
